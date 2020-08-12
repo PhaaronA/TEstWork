@@ -507,7 +507,7 @@ template {
   font-weight: 900;
 }
 .nav-menu__item:hover {
-   color: red;
+   color: #555555;
 }
 .menu__item {
   margin-left: 5px;
