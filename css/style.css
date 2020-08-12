@@ -506,7 +506,9 @@ template {
   font-family: "LatoReg";
   font-weight: 900;
 }
-
+.nav-menu__item:hover {
+   color: red;
+}
 .menu__item {
   margin-left: 5px;
 }
